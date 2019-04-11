@@ -1,0 +1,9 @@
+modCloseWindow = 66, 87, 657, 535, C
+modHide = 154, 203, 745, 651, C
+modPause = 110, 145, 701, 593, C
+modMain = 22, 29, 613, 477, 
+modPublicDeclares = 88, 116, 679, 564, C
+modTaskManager = 132, 174, 723, 622, C
+modWindowAtPoint = 44, 58, 635, 506, C
+modCursor = 22, 29, 613, 477, C
+modStrings = 0, 0, 591, 448, 
